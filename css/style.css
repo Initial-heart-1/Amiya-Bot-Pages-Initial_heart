@@ -5,13 +5,13 @@
 
 body{
     margin:0;
-    font-family:"HarmonyOS Sans SC";
-    line-height:30px;
 }
 
 *{
     box-sizing:border-box;
     font-size:15px;
+    font-family:"HarmonyOS Sans SC";
+    line-height:30px;
 }
 
 #app{
