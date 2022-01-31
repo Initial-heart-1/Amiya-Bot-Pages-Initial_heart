@@ -11,17 +11,13 @@ body{
 
 *{
     box-sizing:border-box;
-    font-family:"HarmonyOS Sans SC";
     font-size:15px;
-    line-height:30px;
 }
 
 #app{
     width:100vw;
     height:100vh;
     border-top:10px solid #ba68c8;
-    font-family:"HarmonyOS Sans SC";
-    line-height:30px;
 }
 
 #content{
@@ -30,6 +26,4 @@ body{
     font-size:15px;
     padding:0 15px 30px;
     overflow:auto;
-    font-family:"HarmonyOS Sans SC";
-    line-height:30px;
 }
