@@ -120,8 +120,8 @@
 
 若对 Amiya 的使用有任何疑问、BUG 反馈、建议或申请 Amiya 加入自己的群，请前往【Amiya反馈交流群（IN）】，QQ 群号 [471089960](https://qm.qq.com/cgi-bin/qm/qr?k=XUBs5g7-vSZ5pihlFSpdg7g4h9KUy3Jy) （点击即可加入）
 
-如果你不是通过 Amiya IN (1304160851) 发送的链接来到此页面，请联系你使用的 Amiya 的管理员，如果你未能成功联系上他，你可以添加我，我可能会尝试帮你找到他。
-
-
-
-[开放源代码软件项目许可证](https://initoslc.amiya.cn/)
+如果你不是通过 Amiya IN (1304160851) 发送的链接来到此页面，请联系你使用的 Amiya 的管理员，如果你未能成功联系上他，你可以添加我，我可能会尝试帮你找到他。  
+  
+  
+  
+Copyright © 2021-2022 Initial_heart. All Rights Reserved. [开放源代码软件项目许可证](https://initoslc.amiya.cn/)
